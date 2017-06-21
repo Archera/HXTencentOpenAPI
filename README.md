@@ -1,0 +1,2 @@
+# HXTencentOpenAPI
+开发需要用到TencentOpenAPI，方便自己做一个用pods管理
